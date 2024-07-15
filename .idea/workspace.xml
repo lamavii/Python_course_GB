@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d44984aa-cd42-4f6d-b35d-8bac3d3c063d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lesson_1/Seminar/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_1/Seminar/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_1/Seminar/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_1/Seminar/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/DZ/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/DZ/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/DZ/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/Sem/1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,9 +19,21 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "lamavii"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/lamavii/Python_course_GB.git",
+    "accountId": "56f1246b-0b36-43b8-b974-4c8239f34267"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2iunAFThP3lXKdW2owVGE12Wve0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -30,6 +42,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.1.executor": "Run",
     "Python.Dz_1.executor": "Run",
     "Python.f.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
